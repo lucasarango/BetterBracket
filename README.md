@@ -14,5 +14,5 @@ CODE IGNITER SETUP AND INSTALLATION
  --------------
  Located at **BetterBracket/application/config/database.php**
  - You will need to edit host, user, password, and database.
- 
+
 
